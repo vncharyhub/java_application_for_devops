@@ -1,0 +1,2 @@
+# java_application_for_devops
+java_application_for_devops
